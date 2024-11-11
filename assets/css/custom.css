@@ -1,0 +1,47 @@
+*{
+    
+    font-family: 'AR One Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+    
+}
+
+.sanpham{
+    display: inline-block;
+    margin: 5px 10px;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    padding: 10px;
+
+}
+
+.nav-link{
+    color: aliceblue;
+}
+
+
+/* .item{
+    width: 20%;
+    height: 120px;
+    border: 1px solid black;
+} */
+
+
+ /* .card{
+    width : 20%;
+    border: 1px solid black;
+    height: 100px;
+    
+}  */
+.item{
+    padding: 20px;
+    font-size: 30px;
+    text-align: center; 
+    margin-bottom: 10px;
+}
+
+.timkiem{
+    margin-left: 10px;
+}
+
